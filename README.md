@@ -1,3 +1,3 @@
 # syhawal73-F13_Internship
-F13_AWS_Cloud_Internship Journey
+F13 Technologies - AWS Cloud Internship Journey
 
